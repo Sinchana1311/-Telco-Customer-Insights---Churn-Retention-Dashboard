@@ -1,5 +1,5 @@
 # Telco Customer Insights-Churn Retention Dashboard
-Project Overview
+Project Overview - 
  This dashboard provides a comprehensive view of customer churn across services, contracts, tenure, and billing behavior, transforming raw telecom data into actionable business insights.
 
 Key Dashboard Views & Insights
