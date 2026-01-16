@@ -1,1 +1,1 @@
-# Telco-CustomerInsights-Churn Retention Dashboard
+# Telco Customer Insights-Churn Retention Dashboard
